@@ -1,0 +1,23 @@
+{
+  "name": "ko",
+  "version": "1.0.0",
+  "description": "ko",
+  "main": "ko.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chnak/ko.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chnak/ko/issues"
+  },
+  "homepage": "https://github.com/chnak/ko#readme",
+  "dependencies": {
+    "knockout": "^3.5.1",
+    "mithril": "^2.2.2"
+  }
+}
